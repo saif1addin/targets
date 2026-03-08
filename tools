@@ -1,0 +1,14 @@
+subfinder ==> with all api key in the file config
+assetfinder 
+ffuf
+waybackurl 
+katana
+gospider
+paramspider ==> to find all parameters
+gf ==> to categorie the vulns using the tags in the tool (xss ,sqli ,lfi ,redirect
+arjun to find the parameters of php_files
+dalfox , knoxss , xsstrike , the best one to test xss is xsstrike 
+nuclei templates 
+sqlmap
+jsluice for find the secrets and urls 
+httpx to category the statuse code 
