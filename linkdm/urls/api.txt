@@ -1,0 +1,2 @@
+https://linkdm-backend.linkdm.com/graphql
+https://Admin.linkdm.com/graphql

@@ -1,0 +1,247 @@
+# Nmap 7.95 scan initiated Wed Mar 18 12:52:01 2026 as: /usr/lib/nmap/nmap --privileged -iL all_subdomains.txt -o nmap.txt
+Failed to resolve "staging.linkdm.com".
+Failed to resolve "test.linkdm.com".
+Failed to resolve "_dmarc.linkdm.com".
+Failed to resolve "_dmarc.linkdm.com".
+Nmap scan report for dev-partner-api.linkdm.com (52.62.105.17)
+Host is up (0.30s latency).
+Other addresses for dev-partner-api.linkdm.com (not scanned): 13.55.243.184
+rDNS record for 52.62.105.17: ec2-52-62-105-17.ap-southeast-2.compute.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for url7903.linkdm.com (46.51.200.92)
+Host is up (0.076s latency).
+Other addresses for url7903.linkdm.com (not scanned): 3.79.130.38 18.158.228.216 54.216.50.79
+rDNS record for 46.51.200.92: ec2-46-51-200-92.eu-west-1.compute.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for admin.linkdm.com (108.159.120.5)
+Host is up (0.014s latency).
+Other addresses for admin.linkdm.com (not scanned): 108.159.120.92 108.159.120.69 108.159.120.118 2600:9000:27f0:9800:1b:5dbe:dfc0:93a1 2600:9000:27f0:dc00:1b:5dbe:dfc0:93a1 2600:9000:27f0:d600:1b:5dbe:dfc0:93a1 2600:9000:27f0:9a00:1b:5dbe:dfc0:93a1 2600:9000:27f0:c000:1b:5dbe:dfc0:93a1 2600:9000:27f0:400:1b:5dbe:dfc0:93a1 2600:9000:27f0:9c00:1b:5dbe:dfc0:93a1 2600:9000:27f0:4400:1b:5dbe:dfc0:93a1
+rDNS record for 108.159.120.5: server-108-159-120-5.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dev-partner.linkdm.com (108.159.102.9)
+Host is up (0.016s latency).
+Other addresses for dev-partner.linkdm.com (not scanned): 108.159.102.32 108.159.102.22 108.159.102.66
+rDNS record for 108.159.102.9: server-108-159-102-9.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for linkdm-backend.linkdm.com (13.211.96.39)
+Host is up (0.30s latency).
+Other addresses for linkdm-backend.linkdm.com (not scanned): 13.55.56.165
+rDNS record for 13.211.96.39: ec2-13-211-96-39.ap-southeast-2.compute.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dev-admin-partner.linkdm.com (108.159.102.118)
+Host is up (0.021s latency).
+Other addresses for dev-admin-partner.linkdm.com (not scanned): 108.159.102.7 108.159.102.71 108.159.102.88
+rDNS record for 108.159.102.118: server-108-159-102-118.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dev-media.linkdm.com (108.159.120.10)
+Host is up (0.013s latency).
+Other addresses for dev-media.linkdm.com (not scanned): 108.159.120.82 108.159.120.103 108.159.120.70
+rDNS record for 108.159.120.10: server-108-159-120-10.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for media.linkdm.com (3.175.196.12)
+Host is up (0.020s latency).
+Other addresses for media.linkdm.com (not scanned): 3.175.196.72 3.175.196.98 3.175.196.80
+rDNS record for 3.175.196.12: server-3-175-196-12.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for partner.linkdm.com (108.159.120.23)
+Host is up (0.022s latency).
+Other addresses for partner.linkdm.com (not scanned): 108.159.120.2 108.159.120.85 108.159.120.3
+rDNS record for 108.159.120.23: server-108-159-120-23.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dev.linkdm.com (108.159.120.55)
+Host is up (0.019s latency).
+Other addresses for dev.linkdm.com (not scanned): 108.159.120.91 108.159.120.84 108.159.120.111 2600:9000:27f0:400:6:1893:13c0:93a1 2600:9000:27f0:ae00:6:1893:13c0:93a1 2600:9000:27f0:1200:6:1893:13c0:93a1 2600:9000:27f0:3800:6:1893:13c0:93a1 2600:9000:27f0:b000:6:1893:13c0:93a1 2600:9000:27f0:5600:6:1893:13c0:93a1 2600:9000:27f0:aa00:6:1893:13c0:93a1 2600:9000:27f0:7e00:6:1893:13c0:93a1
+rDNS record for 108.159.120.55: server-108-159-120-55.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for linkdm.com (198.202.211.1)
+Host is up (0.043s latency).
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for admin-partner.linkdm.com (108.159.120.113)
+Host is up (0.014s latency).
+Other addresses for admin-partner.linkdm.com (not scanned): 108.159.120.7 108.159.120.52 108.159.120.62
+rDNS record for 108.159.120.113: server-108-159-120-113.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dev-linkdm-backend.linkdm.com (13.55.243.184)
+Host is up (0.32s latency).
+Other addresses for dev-linkdm-backend.linkdm.com (not scanned): 52.62.105.17
+rDNS record for 13.55.243.184: ec2-13-55-243-184.ap-southeast-2.compute.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for app.linkdm.com (3.175.196.39)
+Host is up (0.020s latency).
+Other addresses for app.linkdm.com (not scanned): 3.175.196.128 3.175.196.110 3.175.196.45 2600:9000:2936:8400:8:9595:9500:93a1 2600:9000:2936:3200:8:9595:9500:93a1 2600:9000:2936:600:8:9595:9500:93a1 2600:9000:2936:8000:8:9595:9500:93a1 2600:9000:2936:ca00:8:9595:9500:93a1 2600:9000:2936:2800:8:9595:9500:93a1 2600:9000:2936:f200:8:9595:9500:93a1 2600:9000:2936:aa00:8:9595:9500:93a1
+rDNS record for 3.175.196.39: server-3-175-196-39.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for dev-admin.linkdm.com (108.159.120.9)
+Host is up (0.012s latency).
+Other addresses for dev-admin.linkdm.com (not scanned): 108.159.120.17 108.159.120.79 108.159.120.15 2600:9000:27f0:6e00:4:bafc:5540:93a1 2600:9000:27f0:3400:4:bafc:5540:93a1 2600:9000:27f0:de00:4:bafc:5540:93a1 2600:9000:27f0:4e00:4:bafc:5540:93a1 2600:9000:27f0:ee00:4:bafc:5540:93a1 2600:9000:27f0:aa00:4:bafc:5540:93a1 2600:9000:27f0:5c00:4:bafc:5540:93a1 2600:9000:27f0:7600:4:bafc:5540:93a1
+rDNS record for 108.159.120.9: server-108-159-120-9.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for Dev.linkdm.com (108.159.120.111)
+Host is up (0.015s latency).
+Other addresses for Dev.linkdm.com (not scanned): 108.159.120.55 108.159.120.91 108.159.120.84 2600:9000:27f0:7e00:6:1893:13c0:93a1 2600:9000:27f0:400:6:1893:13c0:93a1 2600:9000:27f0:ae00:6:1893:13c0:93a1 2600:9000:27f0:1200:6:1893:13c0:93a1 2600:9000:27f0:3800:6:1893:13c0:93a1 2600:9000:27f0:b000:6:1893:13c0:93a1 2600:9000:27f0:5600:6:1893:13c0:93a1 2600:9000:27f0:aa00:6:1893:13c0:93a1
+rDNS record for 108.159.120.111: server-108-159-120-111.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for Admin.linkdm.com (108.159.120.118)
+Host is up (0.014s latency).
+Other addresses for Admin.linkdm.com (not scanned): 108.159.120.5 108.159.120.92 108.159.120.69 2600:9000:27f0:4400:1b:5dbe:dfc0:93a1 2600:9000:27f0:9800:1b:5dbe:dfc0:93a1 2600:9000:27f0:dc00:1b:5dbe:dfc0:93a1 2600:9000:27f0:d600:1b:5dbe:dfc0:93a1 2600:9000:27f0:9a00:1b:5dbe:dfc0:93a1 2600:9000:27f0:c000:1b:5dbe:dfc0:93a1 2600:9000:27f0:400:1b:5dbe:dfc0:93a1 2600:9000:27f0:9c00:1b:5dbe:dfc0:93a1
+rDNS record for 108.159.120.118: server-108-159-120-118.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Failed to resolve "_dmarc.linkdm.com".
+Nmap scan report for www.linkdm.com (198.202.211.1)
+Host is up (0.042s latency).
+Other addresses for www.linkdm.com (not scanned): 2620:cb:2000::1
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Nmap scan report for partner-api.linkdm.com (13.211.96.39)
+Host is up (0.31s latency).
+Other addresses for partner-api.linkdm.com (not scanned): 13.55.56.165
+rDNS record for 13.211.96.39: ec2-13-211-96-39.ap-southeast-2.compute.amazonaws.com
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for DEV.linkdm.com (108.159.120.55)
+Host is up (0.012s latency).
+Other addresses for DEV.linkdm.com (not scanned): 108.159.120.91 108.159.120.84 108.159.120.111 2600:9000:27f0:400:6:1893:13c0:93a1 2600:9000:27f0:ae00:6:1893:13c0:93a1 2600:9000:27f0:1200:6:1893:13c0:93a1 2600:9000:27f0:3800:6:1893:13c0:93a1 2600:9000:27f0:b000:6:1893:13c0:93a1 2600:9000:27f0:5600:6:1893:13c0:93a1 2600:9000:27f0:aa00:6:1893:13c0:93a1 2600:9000:27f0:7e00:6:1893:13c0:93a1
+rDNS record for 108.159.120.55: server-108-159-120-55.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for ADMIN.linkdm.com (108.159.120.5)
+Host is up (0.012s latency).
+Other addresses for ADMIN.linkdm.com (not scanned): 108.159.120.92 108.159.120.69 108.159.120.118 2600:9000:27f0:9800:1b:5dbe:dfc0:93a1 2600:9000:27f0:dc00:1b:5dbe:dfc0:93a1 2600:9000:27f0:d600:1b:5dbe:dfc0:93a1 2600:9000:27f0:9a00:1b:5dbe:dfc0:93a1 2600:9000:27f0:c000:1b:5dbe:dfc0:93a1 2600:9000:27f0:400:1b:5dbe:dfc0:93a1 2600:9000:27f0:9c00:1b:5dbe:dfc0:93a1 2600:9000:27f0:4400:1b:5dbe:dfc0:93a1
+rDNS record for 108.159.120.5: server-108-159-120-5.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for App.linkdm.com (3.175.196.39)
+Host is up (0.012s latency).
+Other addresses for App.linkdm.com (not scanned): 3.175.196.128 3.175.196.110 3.175.196.45 2600:9000:2936:8400:8:9595:9500:93a1 2600:9000:2936:3200:8:9595:9500:93a1 2600:9000:2936:600:8:9595:9500:93a1 2600:9000:2936:8000:8:9595:9500:93a1 2600:9000:2936:ca00:8:9595:9500:93a1 2600:9000:2936:2800:8:9595:9500:93a1 2600:9000:2936:f200:8:9595:9500:93a1 2600:9000:2936:aa00:8:9595:9500:93a1
+rDNS record for 3.175.196.39: server-3-175-196-39.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for Partner.linkdm.com (108.159.120.23)
+Host is up (0.013s latency).
+Other addresses for Partner.linkdm.com (not scanned): 108.159.120.2 108.159.120.85 108.159.120.3
+rDNS record for 108.159.120.23: server-108-159-120-23.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap scan report for Media.linkdm.com (3.175.196.12)
+Host is up (0.012s latency).
+Other addresses for Media.linkdm.com (not scanned): 3.175.196.72 3.175.196.98 3.175.196.80
+rDNS record for 3.175.196.12: server-3-175-196-12.cai50.r.cloudfront.net
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Failed to resolve "_dmarc.linkdm.com".
+Nmap scan report for WWW.linkdm.com (198.202.211.1)
+Host is up (0.042s latency).
+Other addresses for WWW.linkdm.com (not scanned): 2620:cb:2000::1
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Failed to resolve "_dmarc.linkdm.com".
+Nmap scan report for Www.linkdm.com (198.202.211.1)
+Host is up (0.044s latency).
+Other addresses for Www.linkdm.com (not scanned): 2620:cb:2000::1
+Not shown: 996 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+443/tcp  open  https
+8080/tcp open  http-proxy
+8443/tcp open  https-alt
+
+Failed to resolve "_dmarc.linkdm.com".
+# Nmap done at Wed Mar 18 12:54:15 2026 -- 26 IP addresses (26 hosts up) scanned in 134.02 seconds

@@ -1,0 +1,19 @@
+[31m
+	███╗   ███╗ █████╗ ███╗   ██╗████████╗██████╗  █████╗ 
+	████╗ ████║██╔══██╗████╗  ██║╚══██╔══╝██╔══██╗██╔══██╗
+	██╔████╔██║███████║██╔██╗ ██║   ██║   ██████╔╝███████║
+	██║╚██╔╝██║██╔══██║██║╚██╗██║   ██║   ██╔══██╗██╔══██║
+	██║ ╚═╝ ██║██║  ██║██║ ╚████║   ██║   ██║  ██║██║  ██║
+	╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+			   [31m[[37mCoded by Brosck[31m]
+                             [31m[[37mVersion 3.2[31m]
+[1;32m[+][37m https://ADMIN.linkdm.com/main-es2015.79d4cb1ae0062ef51402.js [1;32m[[37m6LeH05IqAAAAAIM8OKkQnNxpZ10gf-NgmDmr6sG1[1;32m][37m
+[1;32m[+][37m https://dev-admin.linkdm.com/main-es2015.29a4f1bb420dbe2d2b9e.js [1;32m[[37m6Ldy4pIqAAAAAMZc0ifje3CSNa3FhCeaNxm116AT[1;32m][37m
+[1;32m[+][37m https://dev-partner.linkdm.com/main.js [1;32m[[37m6Ly8uL3NyYy9AZnVzZS9jb21wb25lbnRzL2xvYWR[1;32m][37m
+[1;32m[+][37m https://dev-partner.linkdm.com/main.js [1;32m[[37mACK_IMPORTED_MODULE_0___namespace_[1;32m][37m
+[1;32m[+][37m https://dev-partner.linkdm.com/main.js [1;32m[[37mAP_NG_BOOTSTRAP_FESM2022_NG_BOOTST[1;32m][37m
+[1;32m[+][37m https://app.linkdm.com/main.8c134c1fc28bee9b.js [1;32m[[37mREFRESH_TOKEN="Chosen[1;32m][37m
+[1;32m[+][37m https://app.linkdm.com/main.8c134c1fc28bee9b.js [1;32m[[37mauthToken=nt[1;32m][37m
+[1;32m[+][37m https://app.linkdm.com/main.8c134c1fc28bee9b.js [1;32m[[37maccess_token: String[1;32m][37m
+[1;32m[+][37m https://dev-partner.linkdm.com/main.js [1;32m[[37mNodeEnv = function[1;32m][37m
+[1;32m[+][37m https://dev-partner.linkdm.com/main.js [1;32m[[37maccessToken = localStorage[1;32m][37m

@@ -1,0 +1,9 @@
+https://app.linkdm.com/login
+https://Admin.linkdm.com/login
+https://www.linkdm.com/wp-admin/css/login.min.css
+https://www.linkdm.com/wp-admin/css/login.min.css?ver=6.1
+https://www.linkdm.com/wp-content/themes/jumpstart/style/css/login.css
+https://www.linkdm.com/wp-content/themes/jumpstart/style/css/login.css?ver=1.1.1
+https://www.linkdm.com/wp-login.php
+https://www.linkdm.com/wp-login.php?redirect_to=https%3A%2F%2Fwww.linkdm.com%2Fwp-admin%2F&reauth=1
+https://app.linkdm.com/login?utm_source=organic&utm_medium=usersite&utm_campaign=footer
