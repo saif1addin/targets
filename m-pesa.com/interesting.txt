@@ -1,0 +1,6 @@
+https://mpa.smartapp.nexus.m-pesa.com/js/.env
+https://mpa.smartapp.nexus.m-pesa.com/sessions/new?return_to=%2Fjs%2F.env
+https://openapiportal.m-pesa.com/api/v1/sdk/.env
+https://openapiportal.m-pesa.com/.env
+https://org.ke.m-pesa.com/.env
+https://org.ke.m-pesa.com/theme/payment/js/jsrsasign/.env
