@@ -1,9 +1,0 @@
-https://hubstaff.com/API/
-https://hubstaff.com/api/event
-https://hubstaff.com/API/noticeError/called
-https://hubstaff.com/api/session
-https://hubstaff.com/api/session?confirmed=BAhJIh12aW5jZWltbW9ybWlub0BnbWFpbC5jb20GOgZFVA%3D%3D--02d20d414ddece084b7bfb33e05e180cc8002682&invite_token=TUR2x3KBTpwqW6kSu4toDnFgiFA6j09ZxlL4HDeugNM&message=You%20are%20invited%20to%20join%20the%20Found%20Studios%20organization%20on%20Hubstaff%20to%20track%20your%20time.%20To%20accept%20the%20invite%20simply%20fill%20out%20the%20form%20below%20and%20click%20Create.&message_sig=7e026c842d2453cc64f5bb0a0e721608e0786dbd&user%5Bemail%5D=vinceimmormino%40gmail.com&user%5Bname%5D=
-https://hubstaff.com/api/session?confirmed=BAhJIhhoaUBrYXJpbWRhZ2hhcmkuY29tBjoGRVQ%3D--693d065dbad8297253412fb8fb742252b0250215&invite_token=_45yIk_a7xfhK4fIWlsfrkUHWbc9OiNUuJqWjLBbmZU&message=You%20are%20invited%20to%20join%20the%20Delphos%20organization%20on%20Hubstaff%20to%20track%20your%20time.%20To%20accept%20the%20invite%20simply%20fill%20out%20the%20form%20below%20and%20click%20Create.&message_sig=3c22d190f1b79ce50c536587b245d78592fa3fd9&user%5Bemail%5D=hi%40karimdaghari.com&user%5Bname%5D=
-https://hubstaff.com/api/signup
-https://hubstaff.com/API/start/
-https://hubstaff.com/v1
